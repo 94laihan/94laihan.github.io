@@ -1,8 +1,8 @@
 [
-        {"id" : 1,"name" : "Alice", "price" : 5, "image" : "apple.jpg","description":"Buying Alice will save you from boring daily life. Alice is Onix's best friend"},
-        {"id" : 2,"name" : "Onix", "price" : 3, "image" : "orange.jpg","description":"Buying Onix will save you from boring daily life. Onix is Matt's best friend"},
-        {"id" : 3,"name" : "Matt", "price" : 4, "image" : "mango.jpg","description":"Buying Matt will save you from boring daily life. Matt is Willem's best friend"},
-        {"id" : 4,"name" : "Willem", "price" : 20,"image" : "watermelon.jpg","description":"Buying Willem will save you from boring daily life. Willem is Bosco's best friend"},
-        {"id" : 5,"name" : "Bosco", "price" : 10,"image" : "blueberry.jpg","description":"Buying Bosco will save you from boring daily life. Bosco is Wacom's best friend"},
-        {"id" : 6,"name" : "Wacom", "price" : 5,"image" : "white-carrot.jpg","description":"Buying Wacom will save you from boring daily life. Wacom is Alice's best friend"}
+        {"id" : 1,"name" : "Alice", "price" : 5, "image" : "apple.jpg","description":"Alice like apple and she is Onix's best friend"},
+        {"id" : 2,"name" : "Onix", "price" : 3, "image" : "orange.jpg","description":"Onix like orange and he is Matt's best friend"},
+        {"id" : 3,"name" : "Matt", "price" : 4, "image" : "mango.jpg","description":"Matt like mango and he is Willem's best friend"},
+        {"id" : 4,"name" : "Willem", "price" : 20,"image" : "watermelon.jpg","description":"Willem like watermelon and he is Bosco's best friend"},
+        {"id" : 5,"name" : "Bosco", "price" : 10,"image" : "blueberry.jpg","description":"Bosco like blueberry and he is Wacom's best friend"},
+        {"id" : 6,"name" : "Wacom", "price" : 5,"image" : "white-carrot.jpg","description":"Wacom like carrot and he is Alice's best friend"}
 ]
